@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d312b18778e6e9842aa187cecc545cfa, type: 3}
+  m_Name: 4X Big
+  m_EditorClassIdentifier: 
+  MinimumTimeDifficultySecs: 140
+  EnemySpawnPositions:
+  - Position: {x: 8, y: 0, z: 4.5}
+    EnemyPrefab: {fileID: 1762474671561211280, guid: bbec6180ba5e1e9409870f433f1c2052, type: 3}
+  - Position: {x: 8, y: 0, z: -4.5}
+    EnemyPrefab: {fileID: 1762474671561211280, guid: bbec6180ba5e1e9409870f433f1c2052, type: 3}
+  - Position: {x: -8, y: 0, z: -4.5}
+    EnemyPrefab: {fileID: 1762474671561211280, guid: bbec6180ba5e1e9409870f433f1c2052, type: 3}
+  - Position: {x: -8, y: 0, z: 4.5}
+    EnemyPrefab: {fileID: 1762474671561211280, guid: bbec6180ba5e1e9409870f433f1c2052, type: 3}
