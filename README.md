@@ -1,5 +1,10 @@
 # Driftaway
-**DriftAway** is an arcade survival driving game where precision and reaction are key. Take control of your car, dodge enemy vehicles, and survive wave after wave on a tiny island. Can you master the art of drifting and stay alive for just one more moment?
+**DriftAway** is an endless arcade racing game where you control a car trying to escape from the police. Set on a small island, the objective is to dodge police cars and avoid obstacles while drifting at high speeds. The longer you survive, the more intense the chase becomes. Can you outrun the law and master the art of drifting?
 
-# Showcase
-Coming soon
+## How to Play
+- Use arrow keys or WASD to steer and accelerate.
+- Avoid collisions with enemy vehicles.
+- Survive as long as you can!
+
+## Showcase
+
